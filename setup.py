@@ -6,7 +6,7 @@ PACKAGE_NAME = 'robot_upstart'
 
 setup(
     name=PACKAGE_NAME,
-    version='1.0.3',
+    version='1.0.4',
     packages=[PACKAGE_NAME],
     data_files=[
         ('share/ament_index/resource_index/packages',

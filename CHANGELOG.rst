@@ -2,8 +2,8 @@
 Changelog for package robot_upstart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.4 (2024-09-09)
+------------------
 * Make tests pass on ROS 2 (`#124 <https://github.com/clearpathrobotics/robot_upstart/issues/124>`_)
 * Add Github CI
 * Contributors: Chris Iverach-Brereton
